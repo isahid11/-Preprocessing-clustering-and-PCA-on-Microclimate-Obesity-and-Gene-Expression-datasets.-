@@ -1,4 +1,4 @@
-# -Preprocessing-clustering-and-PCA-on-Microclimate-Obesity-and-Gene-Expression-datasets.-
+# Preprocessing-clustering-and-PCA-on-Microclimate-Obesity-and-Gene-Expression-datasets.
 
 Data Preprocessing, Clustering & PCA
 Overview
