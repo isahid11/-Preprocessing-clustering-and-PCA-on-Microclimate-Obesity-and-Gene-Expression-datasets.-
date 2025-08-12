@@ -7,7 +7,7 @@
 *This project covers data preprocessing, clustering, and dimensionality reduction as part of the SIG720 coursework.
 It works with three datasets:*
 
--Microclimate – for missing value handling and scaling.
+* Microclimate – for missing value handling and scaling.
 
 -Obesity – for clustering and categorical encoding.
 
