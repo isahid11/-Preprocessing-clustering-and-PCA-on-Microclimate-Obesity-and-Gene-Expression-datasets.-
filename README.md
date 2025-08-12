@@ -9,37 +9,37 @@ It works with three datasets:*
 
 * Microclimate – for missing value handling and scaling.
 
--Obesity – for clustering and categorical encoding.
+* Obesity – for clustering and categorical encoding.
 
--Gene Expression – for PCA and high-dimensional data analysis.
+* Gene Expression – for PCA and high-dimensional data analysis.
 
 
 *Steps Performed*
 
--Handled missing values using mean/median imputation.
+* Handled missing values using mean/median imputation.
 
--Extracted latitude/longitude from location strings.
+* Extracted latitude/longitude from location strings.
 
--Applied Min–Max scaling and compared data distributions before and after scaling.
+* Applied Min–Max scaling and compared data distributions before and after scaling.
 
--Encoded categorical features for clustering.
+* Encoded categorical features for clustering.
 
--Found optimal clusters using Silhouette Coefficient.
+* Found optimal clusters using Silhouette Coefficient.
 
--Compared KMeans and KMeans++ algorithms.
+* Compared KMeans and KMeans++ algorithms.
 
--Applied PCA to reduce features and compared clustering results before and after PCA.
+* Applied PCA to reduce features and compared clustering results before and after PCA.
 
 
 *Tools Used*
 
--Python
+* Python
 
--Pandas, NumPy
+* Pandas, NumPy
 
--scikit-learn
+* scikit-learn
 
--Matplotlib, Seaborn
+* Matplotlib, Seaborn
 
--Jupyter Notebook
+* Jupyter Notebook
 
