@@ -43,3 +43,8 @@ It works with three datasets:*
 
 * Jupyter Notebook
 
+
+## Dataset Links
+- [Microclimate Sensors Data](https://data.melbourne.vic.gov.au/explore/dataset/microclimate-sensors-data/export/)
+- [Obesity Dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+- [Gene Expression Cancer RNA-Seq Dataset](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq)
